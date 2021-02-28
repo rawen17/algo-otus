@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1410abe-1e1a-41ae-b0e0-80384bbc2279" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -23,8 +58,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="5_lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,16 +87,75 @@
       <updated>1614489394080</updated>
       <workItem from="1614489397044" duration="20000" />
       <workItem from="1614489423848" duration="11000" />
+      <workItem from="1614491084343" duration="148000" />
+      <workItem from="1614491599546" duration="1799000" />
+      <workItem from="1614493407446" duration="826000" />
+      <workItem from="1614495225150" duration="1448000" />
+      <workItem from="1614498234827" duration="1440000" />
+      <workItem from="1614500939556" duration="2097000" />
+      <workItem from="1614503598040" duration="1801000" />
+      <workItem from="1614505410797" duration="1854000" />
+      <workItem from="1614507277799" duration="1797000" />
+      <workItem from="1614509084336" duration="1797000" />
+      <workItem from="1614510891393" duration="1366000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1089" y="369" key="#com.intellij.ide.util.MemberChooser" timestamp="1614511699902">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state x="1089" y="369" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614511699902" />
     <state x="1064" y="440" key="FileChooserDialogImpl" timestamp="1614489433371">
       <screen x="0" y="0" width="2560" height="1368" />
     </state>
     <state x="1064" y="440" key="FileChooserDialogImpl/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614489433371" />
+    <state width="2512" height="381" key="GridCell.Tab.0.bottom" timestamp="1614512243914">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="381" key="GridCell.Tab.0.bottom/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614512243914" />
+    <state width="2512" height="381" key="GridCell.Tab.0.center" timestamp="1614512243914">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="381" key="GridCell.Tab.0.center/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614512243914" />
+    <state width="2512" height="381" key="GridCell.Tab.0.left" timestamp="1614512243914">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="381" key="GridCell.Tab.0.left/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614512243914" />
+    <state width="2512" height="381" key="GridCell.Tab.0.right" timestamp="1614512243914">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="381" key="GridCell.Tab.0.right/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614512243914" />
+    <state width="2512" height="468" key="GridCell.Tab.1.bottom" timestamp="1614502435478">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="468" key="GridCell.Tab.1.bottom/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614502435478" />
+    <state width="2512" height="468" key="GridCell.Tab.1.center" timestamp="1614502435478">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="468" key="GridCell.Tab.1.center/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614502435478" />
+    <state width="2512" height="468" key="GridCell.Tab.1.left" timestamp="1614502435478">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="468" key="GridCell.Tab.1.left/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614502435478" />
+    <state width="2512" height="468" key="GridCell.Tab.1.right" timestamp="1614502435478">
+      <screen x="0" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2512" height="468" key="GridCell.Tab.1.right/0.0.2560.1368/2560.0.1920.1080@0.0.2560.1368" timestamp="1614502435478" />
   </component>
 </project>
